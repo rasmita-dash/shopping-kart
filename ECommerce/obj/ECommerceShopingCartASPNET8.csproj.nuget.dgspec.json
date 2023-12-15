@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deved\\source\\repos\\ASPNET8\\ECommerce\\ECommerceShopingCartASPNET8.csproj": {}
+    "C:\\Users\\deved\\OneDrive\\Projects\\ECommerce-ProductCart(GitHub)\\ASPNet8\\ecom-net8\\ECommerce\\ECommerceShopingCartASPNET8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deved\\source\\repos\\ASPNET8\\ECommerce\\ECommerceShopingCartASPNET8.csproj": {
+    "C:\\Users\\deved\\OneDrive\\Projects\\ECommerce-ProductCart(GitHub)\\ASPNet8\\ecom-net8\\ECommerce\\ECommerceShopingCartASPNET8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deved\\source\\repos\\ASPNET8\\ECommerce\\ECommerceShopingCartASPNET8.csproj",
+        "projectUniqueName": "C:\\Users\\deved\\OneDrive\\Projects\\ECommerce-ProductCart(GitHub)\\ASPNet8\\ecom-net8\\ECommerce\\ECommerceShopingCartASPNET8.csproj",
         "projectName": "ECommerceShopingCartASPNET8",
-        "projectPath": "C:\\Users\\deved\\source\\repos\\ASPNET8\\ECommerce\\ECommerceShopingCartASPNET8.csproj",
+        "projectPath": "C:\\Users\\deved\\OneDrive\\Projects\\ECommerce-ProductCart(GitHub)\\ASPNet8\\ecom-net8\\ECommerce\\ECommerceShopingCartASPNET8.csproj",
         "packagesPath": "C:\\Users\\deved\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deved\\source\\repos\\ASPNET8\\ECommerce\\obj\\",
+        "outputPath": "C:\\Users\\deved\\OneDrive\\Projects\\ECommerce-ProductCart(GitHub)\\ASPNet8\\ecom-net8\\ECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,7 +53,19 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
