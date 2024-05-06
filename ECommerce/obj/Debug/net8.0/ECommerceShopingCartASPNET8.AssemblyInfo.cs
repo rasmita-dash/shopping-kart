@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECommerceShopingCartASPNET8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748285047ab89d03a84023cc29426247e478e5ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9633eed8d89a504ad533391c224b051067079fb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECommerceShopingCartASPNET8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECommerceShopingCartASPNET8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
